@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "887909262113",
+    "firebase_url": "https://let-them-know-x.firebaseio.com",
+    "project_id": "let-them-know-x",
+    "storage_bucket": "let-them-know-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887909262113:android:3a343ed40a9ce11bd99460",
+        "android_client_info": {
+          "package_name": "com.callthemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887909262113-n1r3uft93s3ngnhmia0i9jogtdiut9lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbN9o3fd4PHWN3QGSxueIEw5U26M6Gdqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887909262113-n1r3uft93s3ngnhmia0i9jogtdiut9lu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887909262113-0kadtb0d9prbqht2imtjellp5mupsbi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.let.themknow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
