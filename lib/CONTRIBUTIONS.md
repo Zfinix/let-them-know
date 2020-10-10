@@ -7,4 +7,6 @@
 -LGA'S  
 - university vc's
 - Members of house of reps
-6u
+- Governors
+- National Assembly Member (Reps)
+- Ministers
