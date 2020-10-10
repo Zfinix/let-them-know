@@ -1,4 +1,4 @@
-import 'package:call_them_app/core/provider_registery.dart';
+import 'package:call_them_app/core/provider_registry.dart';
 import 'package:call_them_app/core/viewmodels/menu_vm.dart';
 import 'package:call_them_app/utils/margin.dart';
 import 'package:fluentui_system_icons/fluentui_system_icons.dart';

@@ -1,5 +1,5 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:call_them_app/core/provider_registery.dart';
+import 'package:call_them_app/core/provider_registry.dart';
 import 'package:call_them_app/utils/margin.dart';
 import 'package:call_them_app/widgets/neg_bill_widget.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

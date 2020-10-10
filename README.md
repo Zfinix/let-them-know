@@ -2,9 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+## CONTRIBUTE
+Features that are yet to be added
+- [ ] categorize posts
+- [ ] make it so that it can be used for multiple posts
+- [ ] make it connect to citizengo and change.org
+- [ ] make it social to share posts both on the app
+- [ ] make it social to share 
 
-This project is a starting point for a Flutter application.
+### More
+- [ ] university vc's
+- [ ] Members of State house of Reps.
+- [ ] Governors
+- [ ] National Assembly Members (Reps.)
+- [ ] Ministers
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/Zfinix/call_them/master/screenshots/shot1.png" width="250" />
   <img src="https://raw.githubusercontent.com/Zfinix/call_them/master/screenshots/shot3.png" width="250" />

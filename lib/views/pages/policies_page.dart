@@ -1,4 +1,4 @@
-import 'package:call_them_app/core/provider_registery.dart';
+import 'package:call_them_app/core/provider_registry.dart';
 import 'package:call_them_app/utils/margin.dart';
 import 'package:call_them_app/widgets/category_types_widget.dart';
 import 'package:call_them_app/widgets/neg_bill_widget.dart';

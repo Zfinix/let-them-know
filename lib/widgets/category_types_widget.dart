@@ -1,4 +1,4 @@
-import 'package:call_them_app/core/provider_registery.dart';
+import 'package:call_them_app/core/provider_registry.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';

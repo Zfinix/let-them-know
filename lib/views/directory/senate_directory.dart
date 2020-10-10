@@ -1,5 +1,5 @@
 import 'package:call_them_app/core/models/neg_bills_model.dart';
-import 'package:call_them_app/core/provider_registery.dart';
+import 'package:call_them_app/core/provider_registry.dart';
 import 'package:call_them_app/core/viewmodels/senate_vm.dart';
 import 'package:call_them_app/utils/margin.dart';
 import 'package:call_them_app/views/email_sender.dart';
