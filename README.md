@@ -10,13 +10,14 @@ Features that are yet to be added
 - [ ] make it social to share posts both on the app
 - [ ] make it social to share 
 
-### More
+### MORE
 - [ ] university vc's
 - [ ] Members of State house of Reps.
 - [ ] Governors
 - [ ] National Assembly Members (Reps.)
 - [ ] Ministers
 
+## SCREENSHOTS
 <p float="left">
   <img src="https://raw.githubusercontent.com/Zfinix/call_them/master/screenshots/shot1.png" width="250" />
   <img src="https://raw.githubusercontent.com/Zfinix/call_them/master/screenshots/shot3.png" width="250" />
